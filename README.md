@@ -20,7 +20,3 @@ The **Cloudsoftera Feedback Portal** is a web-based application designed to simp
 ## Purpose
 To provide organizations with a centralized platform for gathering feedback, measuring satisfaction, analyzing responses, and generating actionable insights.
 
-## Developed by
-**Cloudsoftera**
-
-Website: https://cloudsoftera.com
