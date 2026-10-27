@@ -1,6 +1,6 @@
-# Cloudsoftera Feedback Portal
+Feedback Portal
 
-The **Cloudsoftera Feedback Portal** is a web-based application designed to simplify feedback collection, survey management, and reporting. It helps organizations collect user responses, monitor customer satisfaction through Net Promoter Score (NPS), and generate reports for data-driven decision-making.
+The **Feedback Portal** is a web-based application designed to simplify feedback collection, survey management, and reporting. It helps organizations collect user responses, monitor customer satisfaction through Net Promoter Score (NPS), and generate reports for data-driven decision-making.
 
 ## Key Features
 - Feedback collection and management
